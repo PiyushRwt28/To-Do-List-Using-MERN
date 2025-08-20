@@ -1,0 +1,13 @@
+.button-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+}
